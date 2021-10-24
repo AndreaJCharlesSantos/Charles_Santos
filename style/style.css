@@ -22,7 +22,9 @@ nav li{
     margin: 0px;
     /* border: none; */
     color: none;
-    padding: 17px 25px;
+    /* padding: 15px 20px; */
+    margin-right: 5px;
+    /* margin-bottom: 22px; */
 }
 
 nav li a{
@@ -33,14 +35,14 @@ nav li a{
 }
 
 nav{
-    background: rgb(224,124,4);
-    background: linear-gradient(90deg, rgba(224,124,4,0.8911939775910365) 16%, rgba(240,156,76,0.9192051820728291) 48%, rgba(249,215,182,0.9108018207282913) 96%);
+    background:#D0E2C3;
     padding: 1px;
     margin:0 auto;
+    border-radius: 10px;
 }
 
 nav ul li a:hover{
-    background-color: rgb(255, 190, 111);
+    background-color: #b5e990;
     color: #ffffff;
 
 }
